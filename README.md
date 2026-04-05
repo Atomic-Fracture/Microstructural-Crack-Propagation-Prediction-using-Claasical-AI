@@ -14,7 +14,6 @@ This project reframes **fracture mechanics** as an **algorithmic state-space sea
 
 The simulator uses a **provably admissible heuristic** and **crack arrest pruning** to produce physically meaningful results — cracks route through brittle phases and avoid tough grains, just like in real metals.
 
-For an in-depth explanation of the methodology, theoretical framework, and quantitative results, please refer to the [Technical Report](Technical_Report.md).
 
 ## Features
 
